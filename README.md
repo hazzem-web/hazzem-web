@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIwam1sdzhmNmluNGlwdWx4djI2MHZsZ25ybWxoNHc3cmMwcm9ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mwa242eWJ5NTJkbG84bzYwNHRrY2w0anZ5MGIxYzRweDNvZHpzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"/>
 </h1>
 
 
@@ -93,11 +93,11 @@ https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (This Year)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hazzem-web&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hazzem-web&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&since=2026-01-01"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzem-web&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 
@@ -105,6 +105,11 @@ https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzem-web&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+
+---
 
 # 🔭 Current Focus
 
