@@ -1,36 +1,128 @@
-# Hi there 👋 I'm Hazzem Mohammed
+<h1 align="center">
+  <img width="170px" src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif"/>
+</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Backend+Developer;Frontend+Develoer;Future+Data+Analyst&center=true&width=500&height=40)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hazzem Mohammed</h1>
 
----
-
-## 🚀 About Me
-
-I'm a **Computer Science student** passionate about building software and solving real-world problems with code.  
-I enjoy working with **web technologies, databases, and APIs**, and I'm continuously improving my skills in **Backend Nodejs , express.js , Nest.js development and Machine Learning**.
-
-🎓 Computer Science — Kafrelsheikh University (Graduated: 2026)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Backend+Developer;Frontend+Developer;Future+Data+Analyst&center=true&width=500&height=40">
+</p>
 
 ---
 
-## 🔭 Current Focus
+# 🙋‍♂️ About Me
 
-- Backend Development with Node.js
-- Advanced SQL & Database Design
-- Building RESTful APIs
-- Data Analysis , Machine Learning with Python
+I'm a **Computer Science student** passionate about building real-world software and solving problems with code.  
+I enjoy working with **web technologies, databases, and APIs**, and continuously improving my skills in **Backend Development and Data Analysis**.
 
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL Queries
-- Power BI
-- Python for Data Analysis (Pandas & NumPy)
+🎓 **Computer Science — Kafrelsheikh University**  
+📅 **Graduated: 2026**
 
 ---
 
-## 👯 Open to Collaborate On
+
+
+# 📫 Contact Me
+
+📧 **Email:**  
+hazzem.eljoker@gmail.com  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
+
+---
+
+# 🚀 Languages and Tools
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+</a>
+
+<a href="https://nodejs.org">
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+</a>
+
+<a href="https://nestjs.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48"/>
+</a>
+
+<a href="https://reactjs.org/">
+<img src="https://img.icons8.com/color/48/react-native.png"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://img.icons8.com/color/48/python.png"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="48"/>
+</a>
+
+<a href="https://postman.com">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</a>
+
+<a href="https://www.w3.org/html/">
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://img.icons8.com/color/48/css3.png"/>
+</a>
+
+<a href="https://getbootstrap.com">
+<img src="https://img.icons8.com/color/48/bootstrap.png"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hazzem-web&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzem-web&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+
+</p>
+
+---
+
+
+# 🔭 Current Focus
+
+- Backend Development with **Node.js**
+- Designing **RESTful APIs**
+- Advanced **SQL & Database Design**
+- Data Analysis & Machine Learning with **Python**
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced **SQL Queries**
+- **Power BI**
+- **Python for Data Analysis** (Pandas & NumPy)
+
+---
+
+# 👯 Open to Collaborate On
 
 - Open Source Projects
 - Web Applications
@@ -39,7 +131,7 @@ I enjoy working with **web technologies, databases, and APIs**, and I'm continuo
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
 - JavaScript
 - React.js
@@ -49,49 +141,7 @@ I enjoy working with **web technologies, databases, and APIs**, and I'm continuo
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: hazzem.eljoker@gmail.com  
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-- JavaScript
-- C++
-- Python
-
-### Frontend Development
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-
-### Backend Development
-- Node.js
-- Express.js
-- Nest.js
-
-### Databases
-- MongoDB
-- MySQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-
-
----
-
-
-
-## 💡 Development Philosophy
+# 💡 Development Philosophy
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
 
@@ -99,6 +149,6 @@ I believe in writing **clean, scalable, and maintainable code** that solves real
 
 ---
 
-⭐ If you like my work, feel free to **star my repositories**!
+⭐ If you like my work, feel free to **star my repositories**
 
 🚀 Thanks for visiting my profile!
