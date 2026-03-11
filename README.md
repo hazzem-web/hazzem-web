@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img width="170px" src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif"/>
+  <img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIwam1sdzhmNmluNGlwdWx4djI2MHZsZ25ybWxoNHc3cmMwcm9ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 </h1>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hazzem Mohammed</h1>
 
