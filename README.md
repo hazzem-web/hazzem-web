@@ -50,7 +50,7 @@ https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
 </a>
 
 <a href="https://nestjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/nestjs.png"/>
 </a>
 
 <a href="https://reactjs.org/">
@@ -64,6 +64,15 @@ https://www.linkedin.com/in/hazzem-mohammed-9133321a5/
 <a href="https://www.mysql.com/">
 <img src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
 </a>
+
+<a href="https://sequelize.org/">
+<img src="https://images.seeklogo.com/logo-png/27/1/sequelize-logo-png_seeklogo-273892.png" width="48"/>
+</a>
+
+<a href="https://redis.io/">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/redis.png" width="48"/>
+</a>
+
 
 <a href="https://www.python.org">
 <img src="https://img.icons8.com/color/48/python.png"/>
