@@ -1,104 +1,198 @@
-<h1 align="center">
-  <img width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JubWw1Zm52YjJ5dzdxYWZvanY3YXkxNnllcHEyZTJsc2x3ZGNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</h1>
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">Hi 👋 I'm Hazzem Mohammed</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+Engineer;API+Designer;Future+Data+Analyst&center=true&width=500&height=40">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:00D9FF&text=Hazzem%20Mohammed&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
----
+<a href="mailto:hazzem.eljoker@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hazzem-mohammed-9133321a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/hazzem-web">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-## 🚀 About Me
+<br/><br/>
 
-I'm a **Computer Science student** and **Backend Developer** focused on building scalable and production-ready systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Designing+clean+and+secure+backend+systems;Building+APIs+that+scale;Turning+ideas+into+reliable+software" />
 
-I specialize in designing **RESTful APIs**, working with **databases**, and improving **performance and security** in real-world applications.
+</div>
 
-- 🎓 Computer Science — Kafrelsheikh University (2026)
-- ⚙️ Strong focus on Backend Engineering
-- 📊 Expanding into Data Analysis & Machine Learning
-- 🧠 Always learning, building, and improving
+<br/>
 
----
+<!-- ===================== ABOUT ===================== -->
 
-## 🧰 Tech Stack
+whoami
 
-### 💻 Backend
-- Node.js (Express.js, NestJS)
-- REST API Design
-- Authentication & Authorization (JWT, 2FA)
-- Event-Driven Architecture
-- Redis (Caching & Performance)
+const developer = {
+    name: "Hazzem Mohammed",
+    role: "Backend Developer",
+    university: "Kafrelsheikh University",
+    graduation: "2026",
 
-### 🗄️ Databases
-- MongoDB
-- MySQL
-- Sequelize ORM
-- Database Design & Optimization
+    focus: [
+        "Backend Architecture",
+        "RESTful APIs",
+        "Authentication & Security",
+        "Database Design",
+        "Performance Optimization"
+    ],
 
-### 🎨 Frontend
-- React.js
-- HTML5, CSS3, Bootstrap
+    currentlyExploring: [
+        "System Design",
+        "Advanced SQL",
+        "Data Analysis with Python"
+    ]
+};
 
-### 🛠 Tools
-- Git & GitHub (Professional Workflow)
-- Postman (API Testing)
-- VS Code
+I build backend applications with a focus on clean architecture, security, maintainability, and scalability.
 
-### 📊 Data & Analysis (Learning)
-- Python (Pandas, NumPy)
-- Power BI
+<br/>
 
----
+<!-- ===================== STACK ===================== -->
 
-## 🔥 Featured Work
+tech stack
 
-- Built secure authentication systems (Login, Register, Verify, 2FA)
-- Designed scalable REST APIs with clean architecture
-- Implemented caching using Redis for performance optimization
-- Worked with real-world API integrations and data handling
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="33%">
+
+Backend
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js&theme=dark" />
+
+<br/><br/>
+
+APIs · Authentication · Redis
+
+</td>
+
+<td align="center" width="33%">
+
+Database
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
+
+<br/><br/>
+
+MongoDB · SQL · Optimization
+
+</td>
+
+<td align="center" width="33%">
+
+Tools
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+
+<br/><br/>
+
+Git Workflow · API Testing
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ===================== FOCUS ===================== -->
+
+currently building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Backend Engineering
+
+→ Scalable REST APIs
+→ Secure authentication flows
+→ Clean application architecture
+→ Caching with Redis
+→ Database optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+Learning & Growing
+
+→ System Design
+→ Advanced SQL
+→ Performance optimization
+→ Python & Data Analysis
+→ Production-ready systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== GITHUB ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=hazzem-web&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=00D9FF&title_color=00D9FF&include_all_commits=true"
+  />
+
+<img
+ width="41%"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzem-web&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=00D9FF"
+/>
+
+</div>
 
 
-## 📈 Activity Graph
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzem-web&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzem-web&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-## 🎯 Current Focus
+</div>
 
-- Building scalable Backend systems
-- Advanced SQL & database optimization
-- Improving system design skills
-- Data Analysis with Python
+<br/>
 
----
+<!-- ===================== CONNECT ===================== -->
 
-## 🤝 Open to Collaborate
+let's connect
 
-- Backend Projects
-- APIs & Microservices
-- Open Source Contributions
-- Data Analysis Projects
+<div align="center">
 
----
+I'm open to collaborating on Backend Projects, APIs, and Open Source.
 
-## 📫 Contact Me
+<br/>
 
-- 📧 Email: **hazzem.eljoker@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/hazzem-mohammed-9133321a5/**
+<a href="mailto:hazzem.eljoker@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hazzem-mohammed-9133321a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 💡 Philosophy
+<img src="https://komarev.com/ghpvc/?username=hazzem-web&label=Profile%20Views&style=flat-square&color=00D9FF" />
 
-> "Good code is not just working code — it's scalable, readable, and maintainable."
+</div>
 
----
+<!-- ===================== FOOTER ===================== -->
 
-⭐ If you like my work, consider starring my repositories  
-🚀 Always building. Always improving.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:00D9FF" width="100%" />
