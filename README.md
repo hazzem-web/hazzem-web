@@ -223,13 +223,13 @@ Focus areas:
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://raw.githubusercontent.com/hazzem-web/hazzem-web/main/github-contribution-grid-graph.svg"
     alt="Hazzem's GitHub Activity Graph"
     width="100%"
   />
-</p>
+</p> -->
 
 ---
 
