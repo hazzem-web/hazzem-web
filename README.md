@@ -225,7 +225,7 @@ Focus areas:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hazzem-web&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/hazzem-web/hazzem-web/main/github-contribution-grid-graph.svg"
     alt="Hazzem's GitHub Activity Graph"
     width="100%"
   />
